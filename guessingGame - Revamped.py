@@ -1,5 +1,5 @@
 # Guessing Game
-# Jordyn Chalmers
+# Jordyn
 # 16/02/2024 - Computer Programming Class
 import random # import random package
 import sys # imports sys package
