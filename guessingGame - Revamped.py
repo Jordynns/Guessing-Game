@@ -1,7 +1,7 @@
 # Guessing Game
 # Jordyn
 # 16/02/2024 - Computer Programming Class
-import random # import random package
+import random # imports random package
 import sys # imports sys package
 
 def replayGame(): # replayGame function
