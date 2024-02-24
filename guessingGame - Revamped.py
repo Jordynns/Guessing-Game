@@ -1,5 +1,4 @@
-# Guessing Game
-# Jordyn Chalmers
+# guessingGame
 # 16/02/2024 - Computer Programming Class
 
 # Import random package
